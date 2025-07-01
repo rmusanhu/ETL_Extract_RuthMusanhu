@@ -6,5 +6,5 @@ last_extraction.txt
 
 *.log
 *.txt
-transformed_full.csv
-transformed_incremental.csv
+
+

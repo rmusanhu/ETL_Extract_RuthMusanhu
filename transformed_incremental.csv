@@ -1,0 +1,1 @@
+transaction_id,customer_id,product_id,product_name,quantity,price_per_unit,total_price,transaction_date,discounted_price,quantity_category
